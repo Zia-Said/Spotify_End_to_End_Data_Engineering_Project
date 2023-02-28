@@ -21,4 +21,5 @@ This project extracts data from the Spotify API for the top songs, transforms th
 8- Run queries on your Athena table to analyze your data.\
 9- For detailed steps and configuration options, please refer to the project documentation.
 
+
 ![alt text](https://github.com/Zia-Said/Spotify_End_to_End_Data_Engineering_Project/blob/main/Spotify_ETL_Pipeline_in_AWS_Project.png)
