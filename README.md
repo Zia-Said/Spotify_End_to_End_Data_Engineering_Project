@@ -4,22 +4,22 @@ This project extracts data from the Spotify API for the top songs, transforms th
 
 ## Prerequisites
 
-An AWS account\
-Spotify developer account and client ID/secret\
-Python 3.x installed on your local machine\
-AWS CLI installed on your local machine
+1- An AWS account\
+2- Spotify developer account and client ID/secret\
+3- Python 3.x installed on your local machine\
+4- AWS CLI installed on your local machine
 
 
 ## Steps
-Clone the repository to your local machine.
-Create an S3 bucket to store your raw data.
-Create an S3 bucket to store your transformed data.
-Create an AWS Glue crawler to create a metadata table for your raw data in the S3 bucket.
-Create a Lambda function to transform your raw data and save it to the transformed data S3 bucket.
-Schedule your Lambda function to run on a regular basis.
-Create an Athena table to analyze your transformed data.
-Run queries on your Athena table to analyze your data.
-For detailed steps and configuration options, please refer to the project documentation.
+1- Clone the repository to your local machine.
+2- Create an S3 bucket to store your raw data.
+3- Create an S3 bucket to store your transformed data.
+4- Create an AWS Glue crawler to create a metadata table for your raw data in the S3 bucket.
+5- Create a Lambda function to transform your raw data and save it to the transformed data S3 bucket.
+6- Schedule your Lambda function to run on a regular basis.
+7- Create an Athena table to analyze your transformed data.
+8- Run queries on your Athena table to analyze your data.
+9- For detailed steps and configuration options, please refer to the project documentation.
 
 
 (<https://github.com/Zia-Said/Spotify_End_to_End_Data_Engineering_Project/blob/main/Spotify_ETL_Pipeline_in_AWS_Project.png>)
