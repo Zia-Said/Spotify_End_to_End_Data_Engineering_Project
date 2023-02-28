@@ -23,4 +23,4 @@ Run queries on your Athena table to analyze your data.
 For detailed steps and configuration options, please refer to the project documentation.
 
 
-(https://github.com/Zia-Said/Spotify_End_to_End_Data_Engineering_Project/blob/main/Spotify_ETL_Pipeline_in_AWS_Project.png)
+(<https://github.com/Zia-Said/Spotify_End_to_End_Data_Engineering_Project/blob/main/Spotify_ETL_Pipeline_in_AWS_Project.png>)
