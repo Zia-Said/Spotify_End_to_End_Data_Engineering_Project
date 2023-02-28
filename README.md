@@ -11,14 +11,14 @@ This project extracts data from the Spotify API for the top songs, transforms th
 
 
 ## Steps
-1- Clone the repository to your local machine.
-2- Create an S3 bucket to store your raw data.
-3- Create an S3 bucket to store your transformed data.
-4- Create an AWS Glue crawler to create a metadata table for your raw data in the S3 bucket.
-5- Create a Lambda function to transform your raw data and save it to the transformed data S3 bucket.
-6- Schedule your Lambda function to run on a regular basis.
-7- Create an Athena table to analyze your transformed data.
-8- Run queries on your Athena table to analyze your data.
+1- Clone the repository to your local machine.\
+2- Create an S3 bucket to store your raw data.\
+3- Create an S3 bucket to store your transformed data.\
+4- Create an AWS Glue crawler to create a metadata table for your raw data in the S3 bucket.\
+5- Create a Lambda function to transform your raw data and save it to the transformed data S3 bucket.\
+6- Schedule your Lambda function to run on a regular basis.\
+7- Create an Athena table to analyze your transformed data.\
+8- Run queries on your Athena table to analyze your data.\
 9- For detailed steps and configuration options, please refer to the project documentation.
 
 
