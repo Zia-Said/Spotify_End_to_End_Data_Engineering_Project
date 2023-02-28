@@ -20,4 +20,4 @@ Create an Athena table to analyze your transformed data.
 Run queries on your Athena table to analyze your data.
 For detailed steps and configuration options, please refer to the project documentation.
 
-!(file:///C:/Users/Zia/Desktop/DEprojects/1-ProjectsInCourses/2-Darshil/1-PythonforDataEngineering/Project_1%20Spotify_ETL_Pipelines/Spotify_ETL_Pipeline_in_AWS_Project.png)
+![Arch](file:///C:/Users/Zia/Desktop/DEprojects/1-ProjectsInCourses/2-Darshil/1-PythonforDataEngineering/Project_1%20Spotify_ETL_Pipelines/Spotify_ETL_Pipeline_in_AWS_Project.png)
