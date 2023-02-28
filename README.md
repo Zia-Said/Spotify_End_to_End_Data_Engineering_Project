@@ -1,6 +1,6 @@
-# Extract, transform, and load (ETL) pipeline using AWS services to analyze data from the Spotify API for top songs and their informatio
+# Extract, transform, and load (ETL) pipeline using AWS services to analyze data from the Spotify API for top songs
 
-This project extracts data from the Spotify API for the top songs and their information, transforms the data using AWS Glue and Lambda functions, and loads the data into S3 buckets. The transformed data is then analyzed using Athena.
+This project extracts data from the Spotify API for the top songs, transforms the data using AWS Glue and Lambda functions, and loads the data into S3 buckets. The transformed data is then analyzed using Athena.
 
 ## Prerequisites
 An AWS account
