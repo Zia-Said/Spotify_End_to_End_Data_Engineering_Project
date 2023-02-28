@@ -4,10 +4,9 @@ This project extracts data from the Spotify API for the top songs, transforms th
 
 ## Prerequisites
 
-An AWS account
-
+An AWS account\
 Spotify developer account and client ID/secret\
-Python 3.x installed on your local machine
+Python 3.x installed on your local machine\
 AWS CLI installed on your local machine
 
 
