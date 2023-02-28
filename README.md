@@ -3,7 +3,9 @@
 This project extracts data from the Spotify API for the top songs, transforms the data using AWS Glue and Lambda functions, and loads the data into S3 buckets. The transformed data is then analyzed using Athena.
 
 ## Prerequisites
+
 An AWS account
+
 Spotify developer account and client ID/secret
 Python 3.x installed on your local machine
 AWS CLI installed on your local machine
